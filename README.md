@@ -8,3 +8,4 @@ DEBIAN
 password configuration
 Ha
 Ha
+windows
