@@ -9,3 +9,4 @@ password configuration
 Ha
 Ha
 windows
+Fedora
